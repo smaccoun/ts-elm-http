@@ -1,0 +1,19 @@
+{
+  "name": "ts-elm-http",
+  "version": "1.0.0",
+  "description": "Typescript version of Elm Http",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smaccoun/ts-elm-http.git"
+  },
+  "author": "Steven MacCoun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smaccoun/ts-elm-http/issues"
+  },
+  "homepage": "https://github.com/smaccoun/ts-elm-http#readme"
+}
